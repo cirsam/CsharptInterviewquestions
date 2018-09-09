@@ -1,14 +1,15 @@
-﻿<Properties StartupConfiguration="{1496DA22-A66C-416D-9876-727E09C87918}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="testsinterview/Program.cs">
+﻿<Properties StartupConfiguration="{1496DA22-A66C-416D-9876-727E09C87918}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CsharpInterviewQuestions Status">
     <Files>
-      <File FileName="testsinterview/Program.cs" Line="9" Column="21" />
-      <File FileName="testsinterview/CountEvenAndOddNumbersInArray.cs" Line="1" Column="1" />
-      <File FileName="testsinterview/GetFirstStringThatDoesNotRepeat.cs" Line="1" Column="1" />
-      <File FileName="testsinterview/MergeStringsOrStringInterlace.cs" Line="3" Column="1" />
-      <File FileName="testsinterview/Factory.cs" Line="1" Column="1" />
+      <File FileName="testsinterview/Program.cs" Line="10" Column="13" />
+      <File FileName="testsinterview/CountEvenAndOddNumbersInArray.cs" Line="13" Column="30" />
+      <File FileName="testsinterview/GetFirstStringThatDoesNotRepeat.cs" Line="5" Column="25" />
+      <File FileName="testsinterview/MergeStringsOrStringInterlace.cs" Line="4" Column="25" />
+      <File FileName="testsinterview/Factory.cs" Line="1" Column="25" />
+      <File FileName="CsharpInterviewQuestions Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.testsinterview PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.testsinterview PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

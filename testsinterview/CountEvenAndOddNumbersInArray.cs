@@ -10,7 +10,7 @@ namespace testsinterview
         public CountEvenAndOddNumbersInArray()
         {
             Console.WriteLine("COUNT EVEN NUMBERS IN A STRING");
-
+            //Using functions
             int[] numbers = { 1, 2, 3, 4, 5 };
             int[] results = OddEven(numbers);
             Console.WriteLine("Count even numbers = {0}, Count odd numbers = {1} in array  in 1, 2, 3, 4, 5", results[0], results[1]);

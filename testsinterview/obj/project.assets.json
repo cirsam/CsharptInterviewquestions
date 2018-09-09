@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/samuelantwi/Projects/testsinterview/testsinterview/testsinterview.csproj",
+      "projectUniqueName": "/Users/samuelantwi/Projects/CsharpInterviewQuestions/testsinterview/testsinterview.csproj",
       "projectName": "testsinterview",
-      "projectPath": "/Users/samuelantwi/Projects/testsinterview/testsinterview/testsinterview.csproj",
+      "projectPath": "/Users/samuelantwi/Projects/CsharpInterviewQuestions/testsinterview/testsinterview.csproj",
       "packagesPath": "/Users/samuelantwi/.nuget/packages/",
-      "outputPath": "/Users/samuelantwi/Projects/testsinterview/testsinterview/obj",
+      "outputPath": "/Users/samuelantwi/Projects/CsharpInterviewQuestions/testsinterview/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
