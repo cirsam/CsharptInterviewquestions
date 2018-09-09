@@ -1,0 +1,11 @@
+/Users/samuelantwi/Projects/testsinterview/testsinterview/obj/Debug/netcoreapp2.1/testsinterview.csprojAssemblyReference.cache
+/Users/samuelantwi/Projects/testsinterview/testsinterview/obj/Debug/netcoreapp2.1/testsinterview.csproj.CoreCompileInputs.cache
+/Users/samuelantwi/Projects/testsinterview/testsinterview/obj/Debug/netcoreapp2.1/testsinterview.AssemblyInfoInputs.cache
+/Users/samuelantwi/Projects/testsinterview/testsinterview/obj/Debug/netcoreapp2.1/testsinterview.AssemblyInfo.cs
+/Users/samuelantwi/Projects/testsinterview/testsinterview/bin/Debug/netcoreapp2.1/testsinterview.deps.json
+/Users/samuelantwi/Projects/testsinterview/testsinterview/bin/Debug/netcoreapp2.1/testsinterview.runtimeconfig.json
+/Users/samuelantwi/Projects/testsinterview/testsinterview/bin/Debug/netcoreapp2.1/testsinterview.runtimeconfig.dev.json
+/Users/samuelantwi/Projects/testsinterview/testsinterview/bin/Debug/netcoreapp2.1/testsinterview.dll
+/Users/samuelantwi/Projects/testsinterview/testsinterview/bin/Debug/netcoreapp2.1/testsinterview.pdb
+/Users/samuelantwi/Projects/testsinterview/testsinterview/obj/Debug/netcoreapp2.1/testsinterview.dll
+/Users/samuelantwi/Projects/testsinterview/testsinterview/obj/Debug/netcoreapp2.1/testsinterview.pdb
