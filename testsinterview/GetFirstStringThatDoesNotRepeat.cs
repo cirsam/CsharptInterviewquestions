@@ -13,10 +13,7 @@ namespace testsinterview
             Console.WriteLine("GET FIRST NON_REPEATED CHARACTER");
             Console.WriteLine("The string sTress = {0}", GetString("sTress"));
             Console.WriteLine("The string Samuels = {0}", GetString("Samuels"));
-            Console.WriteLine("The string Trying out = {0}", GetString("Trying out"));
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
+            Console.WriteLine("The string Trying out = {0}", GetString("Trying out")+"\n\n\n");
         }
 
         public static string GetString(string mystring)

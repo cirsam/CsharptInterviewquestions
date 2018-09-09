@@ -1,9 +1,8 @@
 ﻿<Properties StartupConfiguration="{1496DA22-A66C-416D-9876-727E09C87918}|Default" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CsharpInterviewQuestions Status">
+  <MonoDevelop.Ide.Workbench ActiveDocument="testsinterview/GetFirstStringThatDoesNotRepeat.cs">
     <Files>
       <File FileName="testsinterview/Program.cs" Line="10" Column="13" />
-      <File FileName="testsinterview/CountEvenAndOddNumbersInArray.cs" Line="13" Column="30" />
-      <File FileName="testsinterview/GetFirstStringThatDoesNotRepeat.cs" Line="5" Column="25" />
+      <File FileName="testsinterview/GetFirstStringThatDoesNotRepeat.cs" Line="16" Column="87" />
       <File FileName="testsinterview/MergeStringsOrStringInterlace.cs" Line="4" Column="25" />
       <File FileName="testsinterview/Factory.cs" Line="1" Column="25" />
       <File FileName="CsharpInterviewQuestions Status" />
