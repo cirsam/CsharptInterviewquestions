@@ -21,5 +21,12 @@
             return new GetFirstStringThatDoesNotRepeat();
 
         }
+
+        public static FindAndReplaceMissingString FindAndReplaceMissingString()
+        {
+
+            return new FindAndReplaceMissingString();
+
+        }
     }
 }

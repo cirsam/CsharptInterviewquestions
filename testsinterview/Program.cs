@@ -10,6 +10,7 @@ namespace testsinterview
             MergeStringsOrStringInterlace mergestrings = Factory.CreateMergeStringsOrStringInterlace();
             CountEvenAndOddNumbersInArray countEvenAndOdd = Factory.CreateCountEvenAndOddNumbersInArray();
             GetFirstStringThatDoesNotRepeat getnonerepeatedstring = Factory.CreateGetFirstStringThatDoesNotRepeat();
+            FindAndReplaceMissingString findAndReplaceMissingString = Factory.FindAndReplaceMissingString();
         }
     }
 }

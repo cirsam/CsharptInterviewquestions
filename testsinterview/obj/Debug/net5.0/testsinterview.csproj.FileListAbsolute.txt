@@ -1,0 +1,15 @@
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\testsinterview\bin\Debug\net5.0\testsinterview.exe
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\testsinterview\bin\Debug\net5.0\testsinterview.deps.json
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\testsinterview\bin\Debug\net5.0\testsinterview.runtimeconfig.json
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\testsinterview\bin\Debug\net5.0\testsinterview.runtimeconfig.dev.json
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\testsinterview\bin\Debug\net5.0\testsinterview.dll
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\testsinterview\bin\Debug\net5.0\ref\testsinterview.dll
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\testsinterview\bin\Debug\net5.0\testsinterview.pdb
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\testsinterview\obj\Debug\net5.0\testsinterview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\testsinterview\obj\Debug\net5.0\testsinterview.AssemblyInfoInputs.cache
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\testsinterview\obj\Debug\net5.0\testsinterview.AssemblyInfo.cs
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\testsinterview\obj\Debug\net5.0\testsinterview.csproj.CoreCompileInputs.cache
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\testsinterview\obj\Debug\net5.0\testsinterview.dll
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\testsinterview\obj\Debug\net5.0\ref\testsinterview.dll
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\testsinterview\obj\Debug\net5.0\testsinterview.pdb
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\testsinterview\obj\Debug\net5.0\testsinterview.genruntimeconfig.cache

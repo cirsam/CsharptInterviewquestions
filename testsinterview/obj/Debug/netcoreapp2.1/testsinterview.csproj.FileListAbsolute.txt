@@ -20,3 +20,15 @@
 /Users/samuelantwi/Projects/CsharpInterviewQuestions/testsinterview/obj/Debug/netcoreapp2.1/testsinterview.AssemblyInfo.cs
 /Users/samuelantwi/Projects/CsharpInterviewQuestions/testsinterview/obj/Debug/netcoreapp2.1/testsinterview.dll
 /Users/samuelantwi/Projects/CsharpInterviewQuestions/testsinterview/obj/Debug/netcoreapp2.1/testsinterview.pdb
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\testsinterview\bin\Debug\netcoreapp2.1\testsinterview.deps.json
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\testsinterview\bin\Debug\netcoreapp2.1\testsinterview.runtimeconfig.json
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\testsinterview\bin\Debug\netcoreapp2.1\testsinterview.runtimeconfig.dev.json
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\testsinterview\bin\Debug\netcoreapp2.1\testsinterview.dll
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\testsinterview\bin\Debug\netcoreapp2.1\testsinterview.pdb
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\testsinterview\obj\Debug\netcoreapp2.1\testsinterview.csproj.AssemblyReference.cache
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\testsinterview\obj\Debug\netcoreapp2.1\testsinterview.AssemblyInfoInputs.cache
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\testsinterview\obj\Debug\netcoreapp2.1\testsinterview.AssemblyInfo.cs
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\testsinterview\obj\Debug\netcoreapp2.1\testsinterview.csproj.CoreCompileInputs.cache
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\testsinterview\obj\Debug\netcoreapp2.1\testsinterview.dll
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\testsinterview\obj\Debug\netcoreapp2.1\testsinterview.pdb
+C:\Users\cirsa\source\repos\CsharptInterviewquestions\testsinterview\obj\Debug\netcoreapp2.1\testsinterview.genruntimeconfig.cache
