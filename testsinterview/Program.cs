@@ -18,7 +18,7 @@ namespace testsinterview
                 ProductCategoryName = "test category",
                 ProductCategoryDescription = "this is the category description",
                 ProductName = "test product",
-                ProductDescription = "this is the product description",
+                ProductDescription = "This is the product description",
             };
 
 
