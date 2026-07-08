@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\cirsa\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\cirsa\\.nuget\\packages"
-    ]
-  }
-}
