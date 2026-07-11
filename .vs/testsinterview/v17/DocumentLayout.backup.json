@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\cirsa\\source\\repos\\Git repo clone\\CsharptInterviewquestions\\CsharptInterviewquestions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1496DA22-A66C-416D-9876-727E09C87918}|testsinterview\\testsinterview.csproj|c:\\users\\cirsa\\source\\repos\\git repo clone\\csharptinterviewquestions\\csharptinterviewquestions\\testsinterview\\productentityextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1496DA22-A66C-416D-9876-727E09C87918}|testsinterview\\testsinterview.csproj|solutionrelative:testsinterview\\productentityextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1496DA22-A66C-416D-9876-727E09C87918}|testsinterview\\testsinterview.csproj|c:\\users\\cirsa\\source\\repos\\git repo clone\\csharptinterviewquestions\\csharptinterviewquestions\\testsinterview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1496DA22-A66C-416D-9876-727E09C87918}|testsinterview\\testsinterview.csproj|solutionrelative:testsinterview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1496DA22-A66C-416D-9876-727E09C87918}|testsinterview\\testsinterview.csproj|c:\\users\\cirsa\\source\\repos\\git repo clone\\csharptinterviewquestions\\csharptinterviewquestions\\testsinterview\\productentityextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1496DA22-A66C-416D-9876-727E09C87918}|testsinterview\\testsinterview.csproj|solutionrelative:testsinterview\\productentityextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1496DA22-A66C-416D-9876-727E09C87918}|testsinterview\\testsinterview.csproj|c:\\users\\cirsa\\source\\repos\\git repo clone\\csharptinterviewquestions\\csharptinterviewquestions\\testsinterview\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,26 +34,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cirsa\\source\\repos\\Git repo clone\\CsharptInterviewquestions\\CsharptInterviewquestions\\testsinterview\\Program.cs",
               "RelativeDocumentMoniker": "testsinterview\\Program.cs",
-              "ToolTip": "C:\\Users\\cirsa\\source\\repos\\Git repo clone\\CsharptInterviewquestions\\CsharptInterviewquestions\\testsinterview\\Program.cs",
-              "RelativeToolTip": "testsinterview\\Program.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\cirsa\\source\\repos\\Git repo clone\\CsharptInterviewquestions\\CsharptInterviewquestions\\testsinterview\\Program.cs*",
+              "RelativeToolTip": "testsinterview\\Program.cs*",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-07T00:04:08.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "productEntityExtention.cs",
               "DocumentMoniker": "C:\\Users\\cirsa\\source\\repos\\Git repo clone\\CsharptInterviewquestions\\CsharptInterviewquestions\\testsinterview\\productEntityExtention.cs",
               "RelativeDocumentMoniker": "testsinterview\\productEntityExtention.cs",
               "ToolTip": "C:\\Users\\cirsa\\source\\repos\\Git repo clone\\CsharptInterviewquestions\\CsharptInterviewquestions\\testsinterview\\productEntityExtention.cs",
               "RelativeToolTip": "testsinterview\\productEntityExtention.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-07T13:24:02.463Z",
               "EditorCaption": ""

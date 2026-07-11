@@ -118,6 +118,6 @@ Console.WriteLine("below is the results from the extention methed TestproductEnt
 Console.ForegroundColor = ConsoleColor.Green;
 //use this mthod to get the product entity by Id
 
-productEntity TestproductEntity = productEntityList.Find(x => x.ProductId == 1); 
+productEntity TestproductEntity = productEntityList.Find(x => x.ProductId ==1); 
 Console.WriteLine( TestproductEntity.GetProductSpecifications());
 Console.ResetColor();
